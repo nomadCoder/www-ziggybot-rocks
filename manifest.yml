@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  domain: mybluemix.net
+  domain: au-syd.mybluemix.net
   name: www-ziggybot-rocks
   host: www-ziggybot-rocks
   disk_quota: 1024M
